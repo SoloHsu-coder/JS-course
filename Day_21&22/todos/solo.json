@@ -1,0 +1,5 @@
+[
+  { "text": "buy milk", "person": "solo", "price": 30 },
+  { "text": "buy book", "person": "solo", "price": 50 },
+  { "text": "buy guitar", "person": "solo", "price": 70 }
+]
